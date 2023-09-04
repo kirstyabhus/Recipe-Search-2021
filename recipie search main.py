@@ -4,7 +4,7 @@ import requests
 # Function to make a request to the Edamam API w/ the required ingredient as search query, to find recipes for
 # the input ingredient
 def ingr_search():
-    app_key = 'a28413f876f1d5d0b52d989a87344cc2'
+    app_key = 'X'
     app_ID = '6468363d'
 
     # ask user for the ingredient to search for
